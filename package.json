@@ -1,0 +1,42 @@
+{
+  "name": "bc-redis-config",
+  "version": "0.0.1",
+  "homepage": "https://github.com/buttercoin/bc-redis-config",
+  "author": {
+    "name": "Kevin Adams",
+    "email": "kevin@buttercoin.com",
+    "url": "http://www.buttercoin.com"
+  },
+  "description": "Express Middleware Module for Redis Config",
+  "contributors": [
+    {
+      "name": "Kevin Adams",
+      "email": "kevin@buttercoin.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/buttercoin/bc-redis-config"
+  },
+  "keywords": [
+    "Redis",
+    "Express",
+    "package",
+    "packaging"
+  ],
+  "dependencies": {
+    "redis": "~0.8.6"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8"
+  },
+  "main": "./lib/index",
+  "readme": "bc-redis-config\n===========\n\nThis is an Express Middleware module for configuring a Redis Client and making it accessible in a response object",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/buttercoin/mimosa-frontend-config/issues"
+  },
+  "_id": "mimosa-frontend-config@0.0.1",
+  "_from": "mimosa-frontend-config@"
+}
