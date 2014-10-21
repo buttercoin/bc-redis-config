@@ -25,7 +25,7 @@
     "packaging"
   ],
   "dependencies": {
-    "redis": "~0.8.6"
+    "redis": "~0.12.1"
   },
   "license": "MIT",
   "engines": {
